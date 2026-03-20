@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קורס אונליין לאדריכלים ומעצבי פנים שרוצים לשדרג את הכישורים הדיגיטליים שלהם. קורסים מוקלטים ופמיליות רוויט פרימיום — הכל במקום אחד. הצטרף עכשיו.
+
+### אודות
+https://example.com/about
+T-Studio נוסדה מתוך תשוקה לעיצוב ולטכנולוגיה. גלה מי אנחנו, מה מניע אותנו ולמה אדריכלים ומעצבי פנים בוחרים בנו כשותפים המקצועיים שלהם לצמיחה דיגיטלית.
+
+### חוויית למידה
+https://example.com/learning-experience
+קורס אונליין שמותאם לקצב שלך, עם תכנים מקצועיים בתחום רוויט ועיצוב דיגיטלי. חוויית למידה נקייה, ממוקדת ואפקטיבית — שתוביל אותך מהיום הראשון לתוצאות אמיתיות בשטח.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על קורס אונליין, פמיליות רוויט או כל נושא אחר? צוות T-Studio כאן בשבילך. צור קשר עכשיו ונחזור אליך במהירות עם כל המידע שתצטרך כדי להתחיל.
+
+### Products
+https://example.com/products
+המוצרים שלנו - T-Studio
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - T-Studio
+
+### Category
+https://example.com/category/:slug
+מוצרים - T-Studio
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
